@@ -16,3 +16,5 @@
 - [필드 초기화와 제한자](Fields.md)
 - [자바의 Data Hiding과 접근 제어자](Data-Hiding-and-Access-Modifier.md)
 - [생성자 이모저모](Constructor.md)
+- [메서드의 제한자](Methods.md)
+- [가변인자 메서드](Varargs.md)
